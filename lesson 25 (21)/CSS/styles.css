@@ -1,0 +1,12 @@
+div{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
+
+div{
+  transform: skew(30deg) translate(.1vh);
+}

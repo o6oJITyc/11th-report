@@ -1,0 +1,16 @@
+.block{
+  width: 500px;
+  height: 500px;
+}
+.block{
+  background: url("../tab-icon.ico") no-repeat 50% 50%, linear-gradient(#fff, #1100ff, #ff0000);
+}
+.block-1{
+  width: 500px;
+  height: 500px;
+}
+.block-1{
+  background: url("../tab-icon.ico"), linear-gradient(#fff, #1100ff, #ff0000);
+  background-repeat: no-repeat;
+  background-position: 50% 50%; 
+}
